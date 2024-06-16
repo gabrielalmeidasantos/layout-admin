@@ -1,0 +1,17 @@
+.droppable {
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 16px;
+  width: 200px;
+  min-height: 400px;
+}
+
+.builder {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 16px;
+  width: 400px;
+  min-height: 500px;
+}

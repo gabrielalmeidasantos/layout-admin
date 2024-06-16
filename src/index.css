@@ -6,8 +6,8 @@
 
 body {
   @apply font-poppins;
-  background-color: rgb(26, 26, 26);
-  color: white;
+  /* background-color: rgb(26, 26, 26); */
+  /* color: white; */
 }
 
 .dndflow {
@@ -15,9 +15,9 @@ body {
   display: flex;
   flex-grow: 1;
   height: 100%;
-  background-color: #fff;
   border-radius: 15px;
-  color: black;
+  /* background-color: #fff; */
+  /* color: black; */
 }
 
 .dndflow aside {
